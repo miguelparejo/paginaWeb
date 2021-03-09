@@ -1,0 +1,14 @@
+#user, #formularioBusqueda {
+    margin: 1%;
+}
+
+footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.margin {
+    margin: 2%;
+}
